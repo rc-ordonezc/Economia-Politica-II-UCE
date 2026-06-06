@@ -2,31 +2,36 @@
 
 El objetivo de esta sesión es analizar la **ley general de la acumulación capitalista**. Partimos de la premisa de que la acumulación, en el contexto de la competencia capitalista, genera un proceso de tecnificación económica que, a su vez, produce un crecimiento estructural del desempleo. 
 
-==La estructura capitalista en si genera desempleo por su propia estructura==
+<mark>La estructura capitalista en si genera desempleo por su propia estructura.</mark>
 
 Es fundamental comprender que este fenómeno no es natural ni biológico (como plantearía Malthus(a mayor población mayor es la desigualdad)), sino un fenómeno social y estructural inherente al modo de producción capitalista, siguiendo el análisis de Karl Marx.
 
-![mapa1.png](mapa1.png)
+<img width="975" height="745" alt="image" src="https://github.com/user-attachments/assets/9fe8c655-fd01-44d7-9452-ad35ff11d328" />
+
 > **Análisis del mapa 1:** Este diagrama inicial establece la cadena causal de la dinámica capitalista: la **acumulación de capital** impulsa la **tecnificación** (aumento de la composición orgánica del capital), lo que estructuralmente genera un **crecimiento del desempleo** (sobrepoblación relativa). El esquema visualiza la paradoja central: el crecimiento económico capitalista produce, simultáneamente, riqueza y población "sobrante".
 
 ---
 
-## 2. Mecanismos Estructurales de Acumulación de Capital
+## 2. Mecanismos Estructurales de Acumulación de Capital (Pregunta del Examen Hemi I)
 
 La acumulación de capital opera a través de dos mecanismos interrelacionados, que funcionan de manera sincrónica en la realidad, aunque pueden distinguirse analíticamente:
+### 2.1 Acumulación Originaria de Capital
+Es el proceso histórico previo (o paralelo) al modo de producción capitalista pleno, mediante el cual se separa violentamente a los productores directos de sus medios de producción (ej. cercamientos, despojo colonial). Este proceso crea las dos clases fundamentales: los propietarios de los medios de producción y los proletarios obligados a vender su fuerza de trabajo.
+### 2.2. Concentración de Capital
+Es la forma de acumulación que se da en el interior del propio proceso productivo. Implica la capitalización de la plusvalía (trabajo no pagado o trabajo excedente), siguiendo el circuito del capital productivo: **D - M ... P ... M' - D'**.
 
-### 2.1. Concentración de Capital
-Es la forma de acumulación que se da en el interior del propio proceso productivo. Implica la capitalización de la plusvalía (trabajo no pagado o trabajo excedente). 
 - La plusvalía se divide en: *plusvalía no capitalizada* (destinada al consumo del capitalista) y *plusvalía capitalizada* (destinada a la reinversión).
-- Como demostraron Marx y, en una interpretación pedagógica contemporánea, Manuel Agustín Aguirre, cada átomo del capital es, en esencia, trabajo no pagado acumulado. 
-- **Paradoja:** A medida que los trabajadores generan riqueza y "pagan" teóricamente el capital adelantado, están creando las condiciones para su propia expulsión del proceso productivo debido a la sustitución tecnológica (maquinismo)
+- Como demostraron Marx y, en una interpretación pedagógica contemporánea, Manuel Agustín Aguirre, cada átomo del capital es, en esencia, trabajo no pagado acumulado.
+- **Paradoja:** A medida que los trabajadores generan riqueza y "pagan" teóricamente el capital adelantado, están creando las condiciones para su propia expulsión del proceso productivo debido a la sustitución tecnológica (maquinismo).
 
-### 2.2. Centralización de Capital
+**Nota:** <mark>La concentración se diferencia de la centralización en que la primera aumenta la magnitud del capital social total, mientras que la segunda solo redistribuye los capitales existentes.</mark>
+### 2.3. Centralización de Capital
 Se refiere a la acumulación a través de la **competencia entre capitalistas**, la cual nunca se da en condiciones de igualdad. 
 - Los productores más tecnificados (con menor tiempo de trabajo necesario) desplazan a los menos eficientes.
-- Esto conduce a la destrucción o absorción de capitales más pequeños por parte de los más grandes ("el pez grande se come al chico"), derivando históricamente desde una fase competitiva (1760-1890) hacia el **monopolio**.
+- Esto conduce a la destrucción o absorción de capitales más pequeños por parte de los más grandes ("el pez grande se come al pequeño"), derivando históricamente desde una fase competitiva (1760-1890) hacia el **monopolio**.
 
-![mapa2.png](mapa2.png)
+<img width="946" height="248" alt="image" src="https://github.com/user-attachments/assets/74958312-aa1f-4212-94be-da2e6a92de2e" />
+
 > **Análisis del mapa 2:** Este esquema contrasta la **concentración** (crecimiento endógeno del capital mediante la reinversión de la plusvalía extraída de los propios trabajadores) con la **centralización** (crecimiento exógeno mediante la fusión, absorción o quiebra de capitales competidores). Ambos mecanismos operan simultáneamente para aumentar la escala y el poder del capital.
 
 ---
