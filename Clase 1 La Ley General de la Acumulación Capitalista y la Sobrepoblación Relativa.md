@@ -38,18 +38,17 @@ Se refiere a la acumulación a través de la **competencia entre capitalistas**,
 
 ## 3. La Composición Orgánica del Capital y el Maquinismo
 
-La competencia impone una "coacción muda" sobre el capital: para sobrevivir, debe incrementar sus ganancias ==reduciendo costos==, lo que obliga a invertir en tecnología. Esto impacta directamente en la **composición orgánica del capital**.
+La competencia impone una "coacción muda" sobre el capital: para sobrevivir, debe incrementar sus ganancias reduciendo costos, lo que obliga a invertir en tecnología. Esto impacta directamente en la **composición orgánica del capital**.
 
 - **Fórmula aproximada:** Relación entre el Capital Constante ($C$: medios de trabajo + objetos de trabajo) y el Capital Variable ($V$: salarios/fuerza de trabajo).
-	Es aproximada ya que C no solo se compone de los medios, sino que también añade los objetos
-- Si la composición orgánica es $> 1$ (ej. $C/V = 2$), indica un alto grado de tecnificación: hay más unidades de capital constante (maquinaria, infraestructura) por cada unidad de capital variable (trabajador).
+	Es aproximada ya que C no solo se compone de los medios, sino que también añade los objetos.
+- Si la composición orgánica [n] es $> 1$ (ej. $C/V = 2$), indica un alto grado de tecnificación: hay más unidades de capital constante (maquinaria, infraestructura) por cada unidad de capital variable (trabajador).
 
-Este incremento generalizado de la composición orgánica deriva en el ==**maquinismo**==: el reemplazo del elemento subjetivo (trabajadores) por el elemento objetivo (máquinas/tecnología). Este cambio cualitativo en la composición técnica tiene una expresión cuantitativa inmediata: la reducción de la demanda de trabajo.
+Este incremento generalizado de la composición orgánica deriva en el <mark>**maquinismo**</mark>: el reemplazo del elemento subjetivo (trabajadores) por el elemento objetivo (máquinas/tecnología). Este cambio cualitativo en la composición técnica tiene una expresión cuantitativa inmediata: la reducción de la demanda de trabajo.
 1. Las **nuevas inversiones** inician con una demanda de trabajo reducida (ya incorporan la tecnología de punta).
 2. Las **viejas inversiones**, para no quebrar, deben recomponerse tecnológicamente, lo que implica la expulsión de trabajadores antiguos.
 
-![mapa3.png](mapa3.png)
-> **Análisis del mapa 3:** El diagrama ilustra la fórmula de la composición orgánica del capital ($C/V$) y el doble movimiento del maquinismo. Muestra cómo tanto la entrada de nuevo capital (con alta tecnificación desde el inicio) como la reconversión del capital existente (despidos para adoptar tecnología) convergen en una reducción neta de la demanda laboral, ajustando costos a expensas de la fuerza de trabajo.
+> **Importante** Si [n] la composición orgánica del capital ($C/V$) aumenta genera un doble movimiento. La entrada de nuevo capital (con alta tecnificación desde el inicio) como la reconversión del capital existente (despidos para adoptar tecnología) y estos dos movimienyos convergen en una reducción neta de la demanda laboral, ajustando costos a expensas de la fuerza de trabajo.
 
 ---
 
@@ -63,7 +62,8 @@ Marx refuta esta visión naturalista. En el capitalismo, la sobrepoblación es *
 
 > *"La acumulación capitalista produce constantemente, y por cierto, en proporción a su energía y a su volumen, una población obrera relativamente adicional, es decir, sobrante para las necesidades medias de valorización del capital y, por tanto, superflua."* — Karl Marx, *El Capital*.
 
-![mapa4.png](mapa4.png)
+<img width="868" height="360" alt="image" src="https://github.com/user-attachments/assets/945f6694-0b90-42fc-a798-6dfda1e8eaef" />
+
 > **Análisis del mapa 4:** Este cuadro comparativo enfrenta la visión **malthusiana** (sobrepoblación absoluta, biológica, regulada por desastres naturales) con la visión **marxista** (sobrepoblación relativa, estructural, determinada por la relación entre la oferta de trabajo y las necesidades de valorización del capital). Destaca que el trabajador es "superfluo" no porque falten recursos, sino porque no es rentable para el capital emplearlo.
 
 ---
