@@ -170,7 +170,7 @@ Esta es la razón más decisiva en términos económicos:
 
 ---
 
-## ❓ 4. Las dos preguntas-taller y la discusión en clase
+## ❓ 4. Las dos preguntas-taller y la discusión en clase (Respuestas tentativas)
 
 Con ese panorama, el profe plantea las **dos preguntas-taller** que el curso debe trabajar como ejercicio de reflexión. Las respuestas que aparecen a continuación son **respuestas tentativas** surgidas de la discusión en clase, no posiciones definitivas del profe.
 
@@ -182,7 +182,7 @@ Con ese panorama, el profe plantea las **dos preguntas-taller** que el curso deb
 
 - La tecnología **no tiene capacidad de agencia**: no actúa por sí misma.
 - Es un **medio para un fin humano**, y los fines humanos **no son neutrales** (sesgos, emociones, relaciones de poder).
-- Como dice el profe: *"la tecnología no posee ninguna capacidad de agencia y no puede actuar por sí mismo, porque la tecnología es un medio para un fin [...] los seres humanos no son neutrales, tienen sesgos [...] la tecnología va a ir dirigida a defender algunos intereses u otros intereses. Y eso ya depende de la lucha que se haga."*
+- Aporte estuidantil: *"la tecnología no posee ninguna capacidad de agencia y no puede actuar por sí mismo, porque la tecnología es un medio para un fin [...] los seres humanos no son neutrales, tienen sesgos [...] la tecnología va a ir dirigida a defender algunos intereses u otros intereses. Y eso ya depende de la lucha que se haga."*
 
 > 🗣️ **Aporte estudiantil:** *"los sesgos en realidad son relaciones de poder. Todas las relaciones sociales son relaciones de poder [...] en un contexto de asimetría, de lucha por el poder, siempre va a haber posicionamientos políticos diferentes."*
 
