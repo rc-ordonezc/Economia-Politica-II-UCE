@@ -290,4 +290,4 @@ No hay contingencia dentro del capitalismo. El vínculo entre **acumulación →
 
 ---
 
-*Documento elaborado a partir de transcripción de clase + apuntes personales. Listo para subir al repositorio 📤.*
+*Documento elaborado a partir de transcripción de clase + apuntes personales.*
