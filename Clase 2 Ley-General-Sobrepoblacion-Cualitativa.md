@@ -2,7 +2,6 @@
 
 > **Clase del 9 de junio** — *Economía Política II* (continuación directa de la sesión anterior)
 > Resumen académico fusionado: transcripción de la clase + apuntes manuscritos.
-> Misma línea editorial: rigor académico + tono "chévere" para el repo de GitHub. 🚀
 
 > 💡 **Documento anterior:** Si necesitas el contexto de la variación cuantitativa, la **Composición Orgánica del Capital `[n]`** y la base teórica, revisa primero el documento *"La Ley General de la Acumulación Capitalista"*. Esta sesión parte de ahí y agrega una capa nueva.
 
@@ -275,4 +274,4 @@ Esta clase se inserta en la misma secuencia de la sesión anterior. Para tener l
 
 ---
 
-*Documento elaborado a partir de la transcripción de la clase del 9 de junio + apuntes manuscritos. Listo para subir al repo 📤.*
+*Documento elaborado a partir de la transcripción de la clase del 9 de junio + apuntes manuscritos.*
