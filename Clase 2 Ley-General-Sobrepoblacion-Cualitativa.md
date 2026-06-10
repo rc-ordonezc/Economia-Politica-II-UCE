@@ -213,20 +213,22 @@ La cadena causal es:
 Juntando todo, la sesión puede resumirse en cuatro proposiciones que se refuerzan entre sí:
 
 1. **El precio del trabajo** es una función de la `[spr]`:
-$$
+  
+   $$
 pw = f([spr])
 $$
+
 Es **artificial**, no natural. Se construye a través del maquinismo y de toda la arquitectura del **`[eir]`**. Si la `[spr]` crece, `pw` cae; si la `[spr]` cae, `pw` sube.
 
-2. **La intensidad del trabajo** también es una función de la `[spr]`:
+4. **La intensidad del trabajo** también es una función de la `[spr]`:
 $$
 ints = f([spr])
 $$
 Porque la competencia entre trabajadores (generada por el **`[eir]`**) hace creíble la amenaza de despido, y frente a esa amenaza los empleados **voluntariamente** incrementan su intensidad. El profesor lo llama **autodisciplina** o, en sus palabras, una suerte de *"búsqueda de correlaciones megafuerza de fuerza"*.
 
-3. La **ley que combina estas dos funciones** es una ley política: **no debe existir tanta `[spr]`**. La clase cierra con esa afirmación normativa — *"ley que combina que no exista tanta sobrepoblación relativa"*— que conecta el análisis económico con la posibilidad de intervención social.
+5. La **ley que combina estas dos funciones** es una ley política: **no debe existir tanta `[spr]`**. La clase cierra con esa afirmación normativa — *"ley que combina que no exista tanta sobrepoblación relativa"*— que conecta el análisis económico con la posibilidad de intervención social.
 
-4. **Los capitalistas preferirán siempre la opción 1** (menos trabajadores, mayor intensidad), porque la opción 2 (más trabajadores, menor salario) implica **mayores costos de producción totales**. La búsqueda de ganancia, por tanto, empuja estructuralmente al **aumento de la intensidad** y a la **caída del precio del trabajo**.
+6. **Los capitalistas preferirán siempre la opción 1** (menos trabajadores, mayor intensidad), porque la opción 2 (más trabajadores, menor salario) implica **mayores costos de producción totales**. La búsqueda de ganancia, por tanto, empuja estructuralmente al **aumento de la intensidad** y a la **caída del precio del trabajo**.
 
 > 🎯 **Frase-síntesis del profesor:** *"El factor fundamental en el mercado laboral es el `[eir]`. Ni la fuerza de oferta y demanda, ni el esfuerzo individual realizado por cada uno por capacitarse o por ser mejor trabajador, sino esa sobrepoblación creada artificialmente para generar correlaciones de fuerzas negativas a los trabajadores."*
 
