@@ -2,7 +2,6 @@
 
 > **Resumen académico de clase** — *Economía Política II*
 > Material de estudio fusionado a partir de la transcripción de la clase y los apuntes personales.
-> Tono: didáctico, riguroso y "chévere" para llevar a un repo de GitHub. 🚀
 
 ---
 
@@ -291,4 +290,4 @@ No hay contingencia dentro del capitalismo. El vínculo entre **acumulación →
 
 ---
 
-*Documento elaborado a partir de transcripción de clase + apuntes personales. Listo para subir al repositorio 📤.*
+*Documento elaborado a partir de transcripción de clase + apuntes personales.*
