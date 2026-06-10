@@ -10,7 +10,7 @@ El objetivo de este espacio es sistematizar el contenido teórico y analítico d
 
 | #   | Clase | Enlace |
 | --- | --- | --- |
-| | 1 | La Ley General de la Acumulación Capitalista | [📄 Clase 1](./Clase-1-La%20Ley%20General%20de%20la%20Acumulaci%C3%B3n%20Capitalista%20y%20la%20Sobrepoblaci%C3%B3n%20Relativa.md) |
+| 1   | La Ley General de la Acumulación Capitalista | [📄 Clase 1](./Clase-1-La%20Ley%20General%20de%20la%20Acumulaci%C3%B3n%20Capitalista%20y%20la%20Sobrepoblaci%C3%B3n%20Relativa.md) |
 | 2   | La Sobrepoblación Relativa (II) | [📄 Clase 2](./Clase-2-Ley-General-Sobrepoblacion-Cualitativa.md) |
 | 3   | Robotización e intensidad | [📄 Clase 3](./Clase-3-Robotizacion-Sobrepoblacion.md) |
 | 4   | _(Próximamente)_ Sobrepoblación en países dependientes | —   |
