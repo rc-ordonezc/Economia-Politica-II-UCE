@@ -1,6 +1,6 @@
 # 📘 La Ley General de la Sobrepoblación Relativa (II): Variación Cualitativa
 
-> **Clase del 9 de junio** — *Economía Política II* (continuación directa de la sesión anterior)
+> **Clase del 8 de junio** — *Economía Política II* (continuación directa de la sesión anterior)
 > Resumen académico fusionado: transcripción de la clase + apuntes manuscritos.
 > Misma línea editorial: rigor académico + tono "chévere" para el repo de GitHub. 🚀
 
