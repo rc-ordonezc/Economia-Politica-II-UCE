@@ -10,8 +10,6 @@
 
 ## 🗝️ Recordatorio de notación
 
-Se mantienen las abreviaturas del documento anterior y se suman las que introduce esta clase. Por convención del profesor, **todos los símbolos van en minúscula**, con dos excepciones: la **`M` mayúscula** inicial de **Masa de trabajo**, y la **terminación** **`ints`** para **Intensidad del trabajo**.
-
 | Símbolo | Significado |
 |---|---|
 | **`[n]`** | **Composición Orgánica del Capital** (grado de tecnificación) |
@@ -276,4 +274,4 @@ Esta clase se inserta en la misma secuencia de la sesión anterior. Para tener l
 
 ---
 
-*Documento elaborado a partir de la transcripción de la clase del 9 de junio + apuntes manuscritos. Listo para subir al repo 📤.*
+*Documento elaborado a partir de la transcripción de la clase del 9 de junio + apuntes manuscritos.  📤.*
