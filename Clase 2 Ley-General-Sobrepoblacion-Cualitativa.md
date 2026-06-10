@@ -1,6 +1,6 @@
 # 📘 La Ley General de la Sobrepoblación Relativa (II): Variación Cualitativa
 
-> **Clase del 9 de junio** — *Economía Política II* (continuación directa de la sesión anterior)
+> **Clase del 8 de junio** — *Economía Política II* (continuación directa de la sesión anterior)
 > Resumen académico fusionado: transcripción de la clase + apuntes manuscritos.
 
 > 💡 **Documento anterior:** Si necesitas el contexto de la variación cuantitativa, la **Composición Orgánica del Capital `[n]`** y la base teórica, revisa primero el documento *"La Ley General de la Acumulación Capitalista"*. Esta sesión parte de ahí y agrega una capa nueva.
