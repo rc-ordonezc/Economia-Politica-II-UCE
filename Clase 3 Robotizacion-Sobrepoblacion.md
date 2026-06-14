@@ -75,7 +75,7 @@ Para que ambas funciones convivan sin contradicción, se distinguen dos planos:
 Es decir, en el capitalismo real:
 
 $$
-v = \underbrace{Mt}_{\text{salario } w} \;+\; \underbrace{p}_{\text{plusvalía}}
+v = \underbrace{Mt}_{\text{salario } w} \+\ \underbrace{p}_{\text{plusvalía}}
 $$
 
 Lo que el trabajador **entrega** es **más** de lo que se le paga. Esa diferencia es la `p`. Por eso Marx dice que en el capitalismo la ecuación normativa `w = v = Mt` **no se cumple**: se rompe en la práctica por la vía de la plusvalía.
