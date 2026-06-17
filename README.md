@@ -13,9 +13,8 @@ El objetivo de este espacio es sistematizar el contenido teórico y analítico d
 | 1   | La Ley General de la Acumulación Capitalista | [📄 Clase 1](https://github.com/rc-ordonezc/Economia-Politica-II-UCE/blob/main/Clase%201%20La%20Ley%20General%20de%20la%20Acumulaci%C3%B3n%20Capitalista%20y%20la%20Sobrepoblaci%C3%B3n%20Relativa.md) |
 | 2   | La Sobrepoblación Relativa (II) | [📄 Clase 2](https://github.com/rc-ordonezc/Economia-Politica-II-UCE/blob/main/Clase%202%20Ley-General-Sobrepoblacion-Cualitativa.md) |
 | 3   | Robotización e intensidad | [📄 Clase 3](https://github.com/rc-ordonezc/Economia-Politica-II-UCE/blob/main/Clase%203%20Robotizacion-Sobrepoblacion.md) |
-| 4   | _(Próximamente)_ Sobrepoblación en países dependientes | —   |
+| 4   | 	La Sobrepoblación Relativa en los Países Dependientes (caso Ecuador) | [📄 Clase 4]([https://github.com/rc-ordonezc/Economia-Politica-II-UCE/blob/main/Clase%203%20Robotizacion-Sobrepoblacion.md](https://github.com/rc-ordonezc/Economia-Politica-II-UCE/blob/main/Clase-4-Sobrepoblacion-Paises-Dependientes.md))   |
 
-> 💡 **Orden de lectura sugerido:** 1 → 2 → 3, ya que cada clase retoma y profundiza los conceptos de la anterior.
 
 ---
 
