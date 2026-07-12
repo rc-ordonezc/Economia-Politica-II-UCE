@@ -26,33 +26,5 @@ El objetivo de este espacio es sistematizar el contenido teórico y analítico d
 
 ---
 
-## 🗂️ Estructura del repositorio
-
-```
-Economia-Politica-II-UCE/
-├── README.md                          ← descripción general del repositorio
-└── MARX/
-    └── Clases md/
-        ├── README.md                  ← este archivo (índice navegable)
-        ├── Clase 1 …Sobrepoblación Relativa.md
-        ├── Clase 2 …Cualitativa.md
-        ├── Clase 3 …Robotizacion.md
-        ├── Clase-4-…Paises-Dependientes.md
-        ├── Clase 5 …Interioridad.md
-        ├── Clase 6 …periferia.md
-        ├── Clase 7 …de la crisis.md
-        ├── Clase 8 …Depresión 1929.md
-        ├── Clase 9 …Kondratiev.md
-        ├── Clase 10 …Kondratiev (taller).md
-        └── Ley-General-…(II).md       ← apéndice de recapitulación
-```
-
----
-
-## 🛠️ Metodología de Documentación
-
-Cada clase se construye en 6 pasos: (1) **recepción de fuentes** (transcripción + apuntes manuscritos), (2) **limpieza y fusión** de las mismas eliminando muletillas pero conservando conceptos, autores y citas, (3) **estructuración lógica** con párrafos de 4–6 líneas, (4) **notación y formato** en Markdown con fórmulas LaTeX, (5) **enlace cruzado** entre clases, y (6) **revisión final** de coherencia y consistencia notacional.
-
----
 
 *Mantenido por [Roberto Ordoñez](https://github.com/rc-ordonezc) — Estudiante de Economía, Universidad Central del Ecuador.*
