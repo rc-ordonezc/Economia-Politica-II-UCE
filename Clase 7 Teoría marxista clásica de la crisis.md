@@ -51,7 +51,7 @@ El profesor enuncia **cuatro capas de oscilación** que se sobreponen:
 
 - **Ciclos cortos**, de **4 a 5 años**, los más visibles en la estadística industrial ordinaria.
 - **Ciclos intermedios**, de **10 a 15 años** aproximadamente, asociados a la recomposición de las ramas de inversión de capital.
-- **Ciclos largos**, de aproximadamente **50 años**, que el profesor designa literalmente como **"ciclos contra tierra"** [nota 1].
+- **Ciclos largos**, de aproximadamente **50 años**, que el profesor designa literalmente como **"ciclos Kondratiev"** [nota 1].
 - Una **capa mayor de ciclos** vinculados a la forma en que **se va conformando el poder global en distintas épocas históricas** —lo que la tradición llama ciclos de **hegemonía global**—.
 
 La consecuencia metodológica es directa: **estudiar la crisis capitalista es estudiar las distintas capas en términos de oscilación y causalidad del movimiento del capitalismo como movimiento histórico**. Esa tarea, dice el profesor, **exigiría historizar y teorizar cada momento y cada causalidad**, algo que el tiempo del semestre no permite. La Parte VII no pretende cubrir todas las capas, sino **aterrizar la teoría clásica marxista de la crisis** y dejar listadas las crisis que la clase analizará en sesiones posteriores (la de la década de 1930, la de la década de 1970, la de 2008 —conocida en clase como "la del 2011", posible lapsus cronológico [VERIFICAR]).
