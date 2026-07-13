@@ -237,13 +237,13 @@ El corolario que el profesor extrae es **estructural**, no moral. Cuando las él
 
 ### 5.2. F2 — Determinar el grado de subempleo y superpleo
 
-La segunda función conecta la `[spr]` con una de las figuras **más características** del mercado laboral dependiente: el **subempleo**, o como el profesor lo nombra varias veces, el **superpleo**.
+La segunda función conecta la `[spr]` con una de las figuras **más características** del mercado laboral dependiente.
 
 #### 5.2.1. Subempleo como forma de desempleo
 
 El profesor parte de una afirmación categórica: **el subempleo es una forma de desempleo**. La persona subempleada **está desempleada**, en el sentido fuerte de la palabra, **aunque cumpla funciones parciales** —jornadas parciales, tareas informales, articulaciones a cadenas formales de valor **sin tener cubiertas ni las necesidades básicas, ni la seguridad social, ni ninguna otra forma de protección para el trabajo público**.
 
-> 🎯 **Frase-síntesis del profe:** *"Superpleo no es más que una forma de desempleo. O sea, subempleo es una forma de estar desempleado en la cual yo puedo cumplir funciones parciales, jornadas parciales, desde la informalidad, insertarme en cadenas formales de valor y no tener cubiertas ni las necesidades básicas, ni la seguridad social, ni ninguna otra forma de protección para el trabajo público."*
+> 🎯 **Frase-síntesis del profe:** *"Subempleo no es más que una forma de desempleo. O sea, subempleo es una forma de estar desempleado en la cual yo puedo cumplir funciones parciales, jornadas parciales, desde la informalidad, insertarme en cadenas formales de valor y no tener cubiertas ni las necesidades básicas, ni la seguridad social, ni ninguna otra forma de protección para el trabajo público."*
 
 #### 5.2.2. Instituciones de cuasi-laboralidad
 
